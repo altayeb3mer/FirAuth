@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972348260406",
+    "project_id": "firauth-c7c60",
+    "storage_bucket": "firauth-c7c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972348260406:android:fbab93f296ffea43f19897",
+        "android_client_info": {
+          "package_name": "com.example.firauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972348260406-1fbjqj1308beu8rnis3rqvs61d2fl4gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firauth",
+            "certificate_hash": "163027644b700f47acd3cbe9361cea7092a7ef81"
+          }
+        },
+        {
+          "client_id": "972348260406-4or0pl6s1e329qo1j04g4jpp4qjmh2hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21LKcuA4Jg3PsraYki55LYnBKFiio1X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972348260406-4or0pl6s1e329qo1j04g4jpp4qjmh2hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
